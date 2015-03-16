@@ -10,7 +10,8 @@ Learning Scala by working on Project Euler problems
 - skipping 13
 - skipping 17
 - skipping 18
-- skipping 19
+- skipping 19 (calendar)
+- skipping 23 (huge input)
 
 ----
 
