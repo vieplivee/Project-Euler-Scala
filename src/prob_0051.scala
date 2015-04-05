@@ -1,5 +1,5 @@
 /**
-  * Self powers: https://projecteuler.net/problem=48
+  * Self powers: https://projecteuler.net/problem=51
   */
 
 import scala.math

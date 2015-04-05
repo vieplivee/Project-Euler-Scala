@@ -7,3 +7,5 @@ def gcd(m: Int, n: Int): Int = {
 
 
 def fibFrom(a: BigInt, b: BigInt): Stream[BigInt] = a #:: fibFrom(b, a + b)
+
+def isPrime(n: Int) = (2 to math.sqrt(n).toInt).forall(n%_ != 0)
