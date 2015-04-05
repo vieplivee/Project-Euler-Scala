@@ -1,5 +1,5 @@
 /**
-  * Prime digit replacements: https://projecteuler.net/problem=51
+  * Self powers: https://projecteuler.net/problem=48
   */
 
 import scala.math
