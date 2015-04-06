@@ -4,16 +4,5 @@ Learning Scala by working on Project Euler problems
 
 ----
 
-##### Change log
-
-- skipping 11
-- skipping 13
-- skipping 17
-- skipping 18
-- skipping 19 (calendar)
-- skipping 23 (huge input)
-
-----
-
 - Start Date: 03.14.2015
-- Last Updated: 03.15.2015
+- Last Updated: 04.05.2015
